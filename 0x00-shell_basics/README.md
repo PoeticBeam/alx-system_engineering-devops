@@ -1,0 +1,1 @@
+I have created my first script using the shebang #! command. My script is designed to print the working directory you are in once excuted. I also changed permissions of the file to allow for execution using chmod command. Thank you!
